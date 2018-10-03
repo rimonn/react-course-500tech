@@ -11,7 +11,15 @@
 * recommended tools:
 * * oh-my-zsh
 * * scm_breeze
+* class components
+* this.forceUpdate() for re-rendering - not recommended to use!
+* rendering 3 option to trigger:
+* * this.forceUpdate()
+* * props get updated from parent (only class components or also dumb?)
+* * state get updated
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
 1. `bidalgo-course-1` branch
+1. `bidalgo-course-2` branch
+1. `bidalgo-course-3` branch
