@@ -20,6 +20,12 @@
 * this.setState versions (overload)
   * this.setState({})
   * this.setState((prevState) => ({})
+* 3 ways to bind 'this' (+ demo)
+* life-cycle events
+* new updates with react life-cycle events:
+   * in the past - side effect on componentWillReceiveProps
+   * now - side effect on componentDidUpdate
+   * new lifeCycle function: getDerivedStateFromProps(nextProps)
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
