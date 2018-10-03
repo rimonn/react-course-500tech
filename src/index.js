@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 
+const Title = () => (<h3>Hello</h3>);
 const groceries = [
   'milk',
   'soy',
@@ -11,7 +12,7 @@ const groceries = [
 
 ReactDOM.render(
   React.createElement('div', null, [
-    React.createElement('h3', null, 'my list'),
+    React.createElement(Title, null, 'my list'),
     React.createElement('ul', null, [
       groceries.map(singleItem => React.createElement('li', null, singleItem))
       
