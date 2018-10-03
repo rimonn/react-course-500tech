@@ -32,6 +32,10 @@
 * ref callback (on native html components)
 * innerRef callback on styled components
 * PropTypes
+* react router (react-router + react-router-dom)
+  https://reacttraining.com/react-router/core/guides/philosophy
+  * withRouter (HOC) (uses the Context API)
+
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
