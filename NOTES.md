@@ -5,6 +5,8 @@
 * Each child in an array or iterator should have a unique "key" prop
 * stateless component and state component
 * basic styling: className and inline styling
+* events and callbacks: onClick, onMouseUp etc.
+* props drilling
 
 
 ### Steps and branches
