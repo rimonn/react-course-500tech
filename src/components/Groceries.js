@@ -1,6 +1,6 @@
 import React from 'react';
 import { Title } from './Title';
-import { GroceryItem, GroceryListItem } from './GroceryItem';
+import { GroceryListItem } from './GroceryItem';
 
 const onClickHandler = (itemName) => {
   console.log(itemName);

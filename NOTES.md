@@ -7,6 +7,7 @@
 * basic styling: className and inline styling
 * events and callbacks: onClick, onMouseUp etc.
 * props drilling
+* styled-components
 
 
 ### Steps and branches
