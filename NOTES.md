@@ -31,6 +31,7 @@
   * un-controlled - handle his state alone
 * ref callback (on native html components)
 * innerRef callback on styled components
+* PropTypes
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
