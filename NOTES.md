@@ -26,6 +26,11 @@
    * in the past - side effect on componentWillReceiveProps
    * now - side effect on componentDidUpdate
    * new lifeCycle function: getDerivedStateFromProps(nextProps)
+* controlled vs un-controlled controllers
+  * controlled - handle his state alone
+  * un-controlled - state handled from outside
+* ref callback (on native html components)
+* innerRef callback on styled components
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
