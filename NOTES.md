@@ -15,7 +15,7 @@
 * this.forceUpdate() for re-rendering - not recommended to use!
 * rendering 3 option to trigger:
 * * this.forceUpdate()
-* * props get updated from parent (only class components or also dumb components?)
+* * props get updated from parent (both class components and also dumb components)
 * * state get updated
 * this.setState versions (overload)
 * * this.setState({})
