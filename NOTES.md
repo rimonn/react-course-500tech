@@ -8,7 +8,10 @@
 * events and callbacks: onClick, onMouseUp etc. - events only on native html elements
 * props drilling
 * styled-components
+* recommended tools:
+* * oh-my-zsh
+* * scm_breeze
 
-
-### Steps and branches
+#### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
+1. `bidalgo-course-1` branch
