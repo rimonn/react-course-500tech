@@ -20,6 +20,7 @@
 * this.setState versions (overload)
   * this.setState({})
   * this.setState((prevState) => ({})
+  * option to add second argument - callback
 * 3 ways to bind 'this' (+ demo)
 * life-cycle events
 * new updates with react life-cycle events:
