@@ -27,8 +27,8 @@
    * now - side effect on componentDidUpdate
    * new lifeCycle function: getDerivedStateFromProps(nextProps)
 * controlled vs un-controlled controllers
-  * controlled - handle his state alone
-  * un-controlled - state handled from outside
+  * controlled - state handled from outside
+  * un-controlled - handle his state alone
 * ref callback (on native html components)
 * innerRef callback on styled components
 
