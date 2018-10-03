@@ -2,18 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import registerServiceWorker from './registerServiceWorker';
-import { Groceries } from './components/Groceries';
-
-const list = [
-  'milk',
-  'soy',
-  '',
-  'apple',
-  null
-];
+import { App } from './components/App';
 
 ReactDOM.render(
-  React.createElement(Groceries, { list }, []),
+  React.createElement(App, null, []),
   document.getElementById('root')
 );
 registerServiceWorker();
