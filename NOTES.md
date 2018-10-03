@@ -35,6 +35,10 @@
 * react router (react-router + react-router-dom)
   https://reacttraining.com/react-router/core/guides/philosophy
   * withRouter (HOC) (uses the Context API)
+* recommended libs
+  * React reveal (animation) https://www.react-reveal.com/
+  * React virtualized - (virtual scrolling) https://bvaughn.github.io/react-virtualized/#/components/List
+  
 
 
 #### Steps and branches (https://github.com/500tech/react-course)
@@ -42,3 +46,7 @@
 1. `bidalgo-course-1` branch
 1. `bidalgo-course-2` branch
 1. `bidalgo-course-3` branch
+1. `bidalgo-course-4` branch
+1. `bidalgo-course-5` branch
+1. `bidalgo-course-6` branch
+1. `bidalgo-course-7` branch
