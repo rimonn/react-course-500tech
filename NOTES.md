@@ -9,17 +9,17 @@
 * props drilling
 * styled-components
 * recommended tools:
-* * oh-my-zsh
-* * scm_breeze
+  * oh-my-zsh
+  * scm_breeze
 * class components
 * this.forceUpdate() for re-rendering - not recommended to use!
 * rendering 3 option to trigger:
-* * this.forceUpdate()
-* * props get updated from parent (both class components and also dumb components)
-* * state get updated
+  * this.forceUpdate()
+  * props get updated from parent (both class components and also dumb components)
+  * state get updated
 * this.setState versions (overload)
-* * this.setState({})
-* * this.setState((prevState) => ({})
+  * this.setState({})
+  * this.setState((prevState) => ({})
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
