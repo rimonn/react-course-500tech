@@ -7,7 +7,9 @@ import { Groceries } from './components/Groceries';
 const list = [
   'milk',
   'soy',
-  'apple'
+  '',
+  'apple',
+  null
 ];
 
 ReactDOM.render(

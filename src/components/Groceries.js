@@ -1,6 +1,6 @@
 import React from 'react';
 import { Title } from './Title';
-import { GroceryItem } from './GroceryItem';
+import { GroceryItem, GroceryListItem } from './GroceryItem';
 
 const onClickHandler = (itemName) => {
   console.log(itemName);
@@ -11,9 +11,8 @@ export const Groceries = props => (
     <Title label="My List" />
     <ul>
       {props.list.map(singleItem =>
-        (<li key={singleItem}>
-          <GroceryItem itemName={singleItem} onClickHandler={onClickHandler} />
-        </li>))}
+        (<GroceryListItem key={singleItem} itemName={singleItem} onClickHandler={onClickHandler} /> )
+      )}
     </ul>
   </div>
 );

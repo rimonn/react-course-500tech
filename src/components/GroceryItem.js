@@ -1,5 +1,9 @@
 import React from 'react';
 
-export const GroceryItem = ({itemName, onClickHandler}) => (
+const GroceryItem = ({itemName, onClickHandler}) => (
   <div onClick={() => onClickHandler(itemName)}>{itemName}</div>
+);
+
+export const GroceryListItem = props => (
+  props.itemName && <li><GroceryItem {...props} /></li>
 );
