@@ -55,6 +55,8 @@ store => next => action => {
   ...middleware logic...
   return next(action)
 }
+* redux-undo: higher order reducer to add undo/redo functionality to redux state containers - https://github.com/omnidan/redux-undo
+* redux-localstorage: Store enhancer that syncs (a subset) of your Redux store state to localstorage.
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
