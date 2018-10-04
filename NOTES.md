@@ -51,3 +51,4 @@
 1. `bidalgo-course-5` branch
 1. `bidalgo-course-6` branch
 1. `bidalgo-course-7` branch
+1. `bidalgo-course-8` branch
