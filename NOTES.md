@@ -45,6 +45,7 @@
 * react-beautiful-dnd for drag-and-drop
 * todo-mvc http://todomvc.com/
 * https://github.com/elgerlambert/redux-localstorage
+* {get, flow} from lodash/fp
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
