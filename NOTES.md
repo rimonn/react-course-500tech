@@ -30,7 +30,7 @@
 * controlled vs un-controlled controllers
   * controlled - state handled from outside
   * un-controlled - handle his state alone
-* ref callback (on native html components)
+* ref callback (on native html components) - only for class-components
 * innerRef callback on styled components
 * PropTypes
 * react router (react-router + react-router-dom)
