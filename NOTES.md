@@ -46,6 +46,8 @@
 * todo-mvc http://todomvc.com/
 * https://github.com/elgerlambert/redux-localstorage
 * {get, flow} from lodash/fp
+* $r with react-dev-tool
+* we can substitute mapDispatchToProps with array of actions (that will automatically will be binded to dispatch() )
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
