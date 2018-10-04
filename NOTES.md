@@ -60,6 +60,11 @@ store => next => action => {
 * reselect
 * redux dev-tools
 
+#### What we DIDN'T cover in the course
+* Render props pattern
+* HOC
+* Context api
+
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
 1. `bidalgo-course-1`  branch
