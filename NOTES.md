@@ -44,6 +44,7 @@
 * do not use! react dnd (drag-and-drop)
 * react-beautiful-dnd for drag-and-drop
 * todo-mvc http://todomvc.com/
+* https://github.com/elgerlambert/redux-localstorage
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
@@ -56,4 +57,5 @@
 1. `bidalgo-course-7`  branch
 1. `bidalgo-course-8`  branch
 1. `bidalgo-course-10` branch - assignment
+
 
