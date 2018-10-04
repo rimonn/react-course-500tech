@@ -58,5 +58,6 @@
 1. `bidalgo-course-7`  branch
 1. `bidalgo-course-8`  branch
 1. `bidalgo-course-10` branch - assignment
+1. `bidalgo-course-redux` branch
 
 
