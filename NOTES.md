@@ -61,7 +61,6 @@
 1. `bidalgo-course-6`  branch
 1. `bidalgo-course-7`  branch
 1. `bidalgo-course-8`  branch
-1. `bidalgo-course-10` branch - assignment
+1. `bidalgo-course-10` branch - assignment (not in my repo, only in 500tech repo)
 1. `bidalgo-course-redux` branch
-
-
+1. `bidalgo-course-redux-final` branch
