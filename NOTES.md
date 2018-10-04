@@ -48,6 +48,8 @@
 * {get, flow} from lodash/fp
 * $r with react-dev-tool
 * we can substitute mapDispatchToProps with array of actions (that will automatically will be binded to dispatch() )
+* mapStateToProps(stateProps, ownProps) - we can use the ownProps
+* mapDispatchToProps(dispatchProps, ownProps) - we can use the ownProps
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
