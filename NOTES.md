@@ -39,8 +39,11 @@
 * recommended libs
   * React reveal (animation) https://www.react-reveal.com/
   * React virtualized - (virtual scrolling) https://bvaughn.github.io/react-virtualized/#/components/List
-  
-
+* {get} from lodash/fp
+* https://flexboxfroggy.com/
+* do not use! react dnd (drag-and-drop)
+* react-beautiful-dnd for drag-and-drop
+* todo-mvc http://todomvc.com/
 
 #### Steps and branches (https://github.com/500tech/react-course)
 1. `react-16` branch
